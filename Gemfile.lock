@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cheatsheet (0.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cheatsheet
+
+BUNDLED WITH
+   1.17.0
